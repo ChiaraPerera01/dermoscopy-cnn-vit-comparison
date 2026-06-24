@@ -1,0 +1,20 @@
+cat > .gitignore << 'EOF'
+# Data and models — too large for git
+data/raw/
+data/processed/
+models/
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment & secrets
+.env
+wandb/
+
+# OS
+.DS_Store
+EOF
