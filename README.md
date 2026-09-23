@@ -11,7 +11,3 @@ attention maps) and uncertainty estimation (MC Dropout, temperature scaling).
 1. Create environment: `conda create -n skinlesion python=3.11 -y`
 2. Activate: `conda activate skinlesion`
 
-## Status
-
-In development.
-EOF
