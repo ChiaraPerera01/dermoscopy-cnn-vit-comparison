@@ -1,0 +1,13 @@
+model,outcome,n,density_ratio_median,inside_fraction_median
+CNN,true positive,33,11.828,0.827
+CNN,false positive,80,5.911,0.73
+CNN,false negative,4,4.01,0.523
+CNN,true negative,176,0.107,0.026
+Attention-CNN,true positive,25,5.558,0.671
+Attention-CNN,false positive,64,3.437,0.516
+Attention-CNN,false negative,13,0.26,0.05
+Attention-CNN,true negative,129,0.164,0.022
+DeiT,true positive,14,1.54,0.201
+DeiT,false positive,7,2.422,0.162
+DeiT,false negative,24,0.888,0.286
+DeiT,true negative,255,0.957,0.258

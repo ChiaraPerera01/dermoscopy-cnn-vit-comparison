@@ -1,0 +1,4 @@
+Model,Temperature T,ECE before,ECE after
+CNN,0.793,0.0723,0.0565
+Attention-CNN,0.611,0.0685,0.0229
+DeiT,2.304,0.0847,0.0183

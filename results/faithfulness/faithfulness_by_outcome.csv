@@ -1,0 +1,10 @@
+model,outcome,count,mean
+Attention-CNN,correct,154,33.825
+Attention-CNN,false negative,13,1.083
+Attention-CNN,false positive,64,4.194
+CNN,correct,209,3.573
+CNN,false negative,4,6.058
+CNN,false positive,80,7.66
+DeiT,correct,269,3.076
+DeiT,false negative,24,1.309
+DeiT,false positive,7,3.657

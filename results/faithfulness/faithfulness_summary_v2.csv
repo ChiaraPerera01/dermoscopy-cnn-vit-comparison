@@ -1,0 +1,4 @@
+model,n_valid,inside_fraction_mean,density_ratio_median,empty_maps
+CNN,293,0.361,1.235,7
+Attention-CNN,231,0.32,1.287,69
+DeiT,300,0.298,0.968,0
