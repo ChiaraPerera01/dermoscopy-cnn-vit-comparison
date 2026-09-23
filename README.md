@@ -10,7 +10,6 @@ attention maps) and uncertainty estimation (MC Dropout, temperature scaling).
 
 1. Create environment: `conda create -n skinlesion python=3.11 -y`
 2. Activate: `conda activate skinlesion`
-3. Install dependencies: `pip install -r requirements.txt`
 
 ## Status
 
