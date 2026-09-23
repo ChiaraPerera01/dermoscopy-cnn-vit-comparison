@@ -18,3 +18,5 @@ wandb/
 # OS
 .DS_Store
 EOF
+
+.venv/

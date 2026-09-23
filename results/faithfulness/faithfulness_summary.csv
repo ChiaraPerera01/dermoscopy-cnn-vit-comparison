@@ -1,0 +1,4 @@
+model,n,inside_fraction_mean,inside_fraction_std,density_ratio_mean,density_ratio_median
+CNN,300,0.361,0.358,4.723,1.235
+Attention-CNN,300,0.32,0.313,23.772,1.287
+DeiT,300,0.298,0.237,2.949,0.968

@@ -1,0 +1,4 @@
+Model,Uncertainty (correct),Uncertainty (wrong),Ratio (wrong/correct)
+CNN,0.0272,0.0283,1.04
+Attention-CNN,0.0202,0.0229,1.13
+DeiT,0.0161,0.065,4.04
